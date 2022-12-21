@@ -1,7 +1,7 @@
 # Contrastive Multilingual Multimodal Translation Evaluation
 
 The aim of Multimodal Machine Translation is to disambiguate sentences in a source language into the target language thanks to additional visual inputs. We release a **C**ontrastive **M**ultilingual **Mu**ltimodal **T**ranslation **E**valuation dataset (CoMMuTE) whose goal is to evaluate models' ability to exploit images in order to disambiguate English sentences and produce correct translations in French, German or Czech. 
-Concretely, CoMMuTE is composed of lexically ambiguous sentences in English where there are two possible translations depending of the image for each example. Models are asked to rank the pairs of translations based on the perplexity score. 
+Concretely, CoMMuTE is composed of lexically ambiguous sentences in English where there are two possible translations depending of the image for each example. Models are asked to rank the pairs of translations based on the perplexity score. Half of the English source sentences are from [<ins>DiscEvalMT</ins>](https://github.com/rbawden/discourse-mt-test-sets).
 
 ## Download images
 Images can be downloaded [<ins>here</ins>](https://drive.google.com/drive/folders/1FrvKN1PyR7zeGLllCLp50TbM0OS8LCSc?usp=sharing). To extract the content, please run the following command line:
@@ -24,6 +24,20 @@ In this English source sentence, **_bank_** is ambiguous and can be translated i
 To evaluate models, please provide a text file with perplexity scores for the correct translations and another one with the incorrect translations scores. The expected format is "1.3456\n5.6432\n...". Then, run the following command line:
 
 `python3 evaluate.py correct.txt incorrect.txt`
+
+## Citation
+
+If you use this corpus, please cite:
+```
+@article{CoMMuTE,
+  doi = {10.48550/ARXIV.2212.10140},
+  url = {https://arxiv.org/abs/2212.10140},
+  author = {Futeral, Matthieu and Schmid, Cordelia and Laptev, Ivan and Sagot, Benoît and Bawden, Rachel},
+  title = {Tackling Ambiguity with Images: Improved Multimodal Machine Translation and Contrastive Evaluation},
+  publisher = {arXiv},
+  year = {2022}
+}
+```
 
 ## License
 The evaluation datasets are distributed under a CC BY-NC-SA 4.0 licence.
