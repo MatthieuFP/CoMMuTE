@@ -1,7 +1,9 @@
 # Contrastive Multilingual Multimodal Translation Evaluation
 
 The aim of Multimodal Machine Translation is to disambiguate sentences in a source language into the target language thanks to additional visual inputs. We release a **C**ontrastive **M**ultilingual **Mu**ltimodal **T**ranslation **E**valuation dataset (CoMMuTE) whose goal is to evaluate models' ability to exploit images in order to disambiguate English sentences and produce correct translations in French, German or Czech. 
-Concretely, CoMMuTE is composed of lexically ambiguous sentences in English where there are two possible translations depending of the image for each example. Models are asked to rank the pairs of translations based on the perplexity score. Half of the English source sentences are from [<ins>DiscEvalMT</ins>](https://github.com/rbawden/discourse-mt-test-sets).
+Concretely, CoMMuTE is composed of lexically ambiguous sentences in English where there are two possible translations depending of the image for each example. Models are asked to rank the pairs of translations based on the perplexity score. 
+
+Half of the English source sentences are from [<ins>DiscEvalMT</ins>](https://github.com/rbawden/discourse-mt-test-sets).
 
 ## Download images
 Images can be downloaded [<ins>here</ins>](https://drive.google.com/drive/folders/1FrvKN1PyR7zeGLllCLp50TbM0OS8LCSc?usp=sharing). To extract the content, please run the following command line:
