@@ -97,4 +97,212 @@ Regarde le ballon !
 Il semble apprécier le rendez-vous !
 Il semble apprécier la datte !
 Ne mange pas les os !
-Ne mange pas les arêtes !
+Ne mange pas les arêtes
+Super, c'est la saison du cricket !
+Super, c'est la saison du criquet !
+Nous avons un nouveau bourrage, j'en ai peur.
+Nous avons un nouvel embouteillage, j'en ai peur.
+Oui, c'est son bar.
+Oui, c'est sa barre.
+Un ministre fait un discours tout en tenant un livre.
+Un pasteur fait un discours tout en tenant un livre.
+Il s'est attelé à réparer son caleçon.
+Il s'est attelé à réparer ses tiroirs.
+Sais-tu où se trouve mon pantalon ?
+Sais-tu où se trouve mon caleçon ?
+As-tu fait le tableau ?
+As-tu construit la table ?
+Passe-moi l'addition.
+Passe-moi le billet.
+J'enlève toujours la peau avant de le manger.
+J'enlève toujours la pelure avant la manger.
+C'est l'heure de la piscine !
+C'est l'heure du billiard !
+La roue semble être bloquée d'une manière ou d'une autre.
+Le volant semble être bloqué d'une manière ou d'une autre.
+Ton punch est incroyable !
+Ton coup de poing est incroyable !
+Mon mari a acheté une moto récemment.
+Mon mari a acheté un hélicoptère récemment.
+Tu as acheté un nouveau foulard, n'est-ce pas ?
+Tu as acheté une nouvelle écharpe, n'est-ce pas ?
+Nous sommes sous la canopée.
+Nous sommes sous l'auvent.
+Il faut laver les tétines.
+Il faut laver les mannequins.
+Il veut me montrer son spot.
+Il veut me montrer son bouton.
+Tu as vu ma broche ?
+Tu as vu mon épingle ?
+La balance est cassée.
+L'écaille est cassée.
+Quelqu'un devrait nettoyer la vitrine.
+Quelqu'un devrait nettoyer la vitre.
+Ne laisse pas les enfants jouer sur le chantier !
+Ne laisse pas les enfants jouer dans la cour !
+Le bouchon ne marche plus, tu pourrais le réparer ?
+La prise ne marche plus, tu pourrais la réparer ?
+C'est une petite pierre que tu as là.
+C'est un petit noyau que tu as là.
+J'ai laissé tomber un trombone par terre mais je sais pas où.
+J'ai laissé tomber une barette par terre mais je ne sais pas où.
+Donne-moi de la pâte !
+Donne-moi de la thune !
+Tu dois te débarasser des frênes.
+Tu dois te débarasser des cendres.
+Elle a un petit pain au four.
+Elle attend un enfant.
+Il a des balles !
+Il a des couilles !
+Ne t'en prends pas au contrôleur !
+Ne t'en prends pas à la manette !
+Le cerf me regardait droit dans les yeux.
+La biche me regardait droit dans les yeux.
+Une biche dans le champs.
+Une lapine dans le champs.
+Ne regarde pas la mouche !
+Ne regarde pas la braguette !
+Il a acheté son propre avion.
+Il a acheté son propre rabot.
+Regarde son visage, elle est toute rouge !
+Regarde son visage, elle a une couleur !
+Ta gencive n'a pas l'air d'aller bien !
+Ton chewing-gum n'a pas l'air bon !
+Cela doit être les esprits !
+Cela doit être l'alcool !
+Les soles sentaient mauvais.
+Les semelles sentaient mauvais.
+Une personne avec une veste jaune attend quelque chose.
+Une personne avec un gilet jaune attend quelque chose.
+J'ai perdu quelques kilos.
+J'ai perdu quelques livres.
+Vous devez vraiment nettoyer les tuyaux de temps en temps.
+Vous devez vraiment nettoyer la cornemuse de temps en temps.
+Cette cale est toute pourrie.
+Cette potatoe est toute pourrie.
+Sa chaussure est tombée dans le champ.
+Son fer à cheval est tombé dans le champ.
+Donne-moi son dossier, s'il te plaît.
+Donne-moi son disque, s'il te plaît.
+C'est un train magnifique, n'est-ce pas ?
+C'est une magnifique traîne, n'est-ce pas ?
+As-tu vu la règle ?
+As-tu vu le chef ?
+Regarde sous le capot !
+Regarde sous la cagoule !
+Subway ? C'est toi qui décide.
+Le métro ? C'est toi qui décide.
+Quel est ce signe ? Je ne le connais pas.
+Quel est ce panneau ? Je ne le connais pas.
+Regarde, il a une blessure à la patte.
+Regarde, il a une blessure à la jambe.
+C'est un cavalier expérimenté.
+C'est un motard expérimenté.
+Le week-end dernier, nous sommes allés au circuit de course.
+Le week-end dernier, nous sommes allés à l'hippodrome.
+Wow, le modèle est très beau !
+Wow, la mannequin est très belle !
+Le socle est en bois et relativement solide.
+Le ponton est en bois et relativement solide.
+Pourquoi ai-je l'impression qu'il aime beaucoup les exercices ?
+Pourquoi ai-je l'impression qu'il aime beaucoup les perceuses ? 
+Il est assis sur le tronc.
+Il est assis sur le coffre.
+Le bal a duré très longtemps, on en a eu pour notre argent !
+Le ballon a tenu très longtemps, on en a eu pour notre argent !
+Il a pris la laisse.
+Il a pris la tête de la course.
+Tu as du coca ?
+Tu as de la coke ?
+La muselière de ce chien est bizarre.
+Le museau de ce chien est bizarre.
+Tu n'entends pas le rugissement ?
+Tu n'entends pas le vrombissement ?
+Passe-moi le pique.
+Passe-moi la pelle.
+Il a bu une bière bien fraîche sur le pont.
+Il a bu une bière bien fraîche sur la terrasse.
+J'ai hâte - c'est mon spectacle préféré, vous savez !
+J'ai hâte - c'est mon émission préférée, vous savez !
+Le caveau est maintenant scellé.
+La chambre forte est maintenant scellée.
+Mets ça dans le panier.
+Mets ça dans la corbeille.
+J'ai fait tomber la capsule.
+J'ai fait tomber la capuchon.
+Il a reçu une balle dans le bras et a immédiatement ressenti une vive douleur.
+Il a reçu une injection dans le bras et a immédiatement ressenti une vive douleur.
+J'ai vu quelqu'un avec une canne marché dans la rue.
+J'ai vu quelqu'un avec un bâton marché dans la rue.
+Le verrou est cassé, tu peux le changer ?
+Le boulon est cassé, tu peux le changer ?
+En déménageant dans mon nouvel appartement, j'ai découvert une boîte laissée par l'ancien locataire.
+En déménageant dans mon nouvel appartement, j'ai découvert un carton laissé par l'ancien locataire.
+Ils font souvent de l'aviron.
+Ils se disputent souvent.
+C'est un bon swing !
+C'est une bonne balançoire !
+Il a sauté par-dessus la clôture.
+Il a sauté par-dessus l'obstacle.
+Laisse une note sur la table, s'il te plaît.
+Laisse un billet sur la table, s'il te plaît.
+Nous avons un nouveau lanceur.
+Nous avons un nouveau pichet.
+Un des organes a cessé de fonctionner malheureusement.
+Un des orgues a cessé de fonctionner malheureusement.
+C'est réputé pour ses belles roses.
+C'est réputé pour ses belles rosaces.
+Mon mari adore le squash !
+Mon mari adore la courge !
+Des coups de feu ont été tirés dans le village, près de la poste.
+Des tournages ont eu lieu dans le village, près du bureau de poste.
+Elle a besoin d'un bon coup de balai.
+Elle a besoin d'un bon ramonage.
+Nous avons changé l'entraîneur.
+Nous avons changé le wagon.
+Le carrelage est vieux et brisé, on doit le changer.
+Les tuiles sont vieilles et cassées, on doit les changer.
+Passe-moi la boîte de conserve s'il te plaît.
+Passe-moi la canette s'il te plaît.
+Fais attention, le fer est chaud !
+Fais attention, le fer à repasser est chaud !
+Il nous en reste, mais je vais acheter quelques rouleaux supplémentaires, juste pour être sûr.
+Il nous en reste, mais je vais acheter quelques petits pains supplémentaires, juste pour être sûr.
+Permettez-moi d'examiner ce patin de plus près.
+Permettez-moi d'examiner cette raie de plus près.
+Quel poulet !
+Quel trouillard !
+Près de la grande place ou de la petite ?
+Près du carré principal ou du petit ?
+Si nous pouvions simplement déplacer un peu la planche, cela créerait de l'espace.
+Si nous pouvions simplement déplacer un peu le plateau, cela créerait de l'espace.
+Elle sait manier la pagaie.
+Elle sait manier la raquette.
+L'homme l'a vu baisser la tête.
+L'homme a vu son canard.
+Regarde la baie, c'est magnifique !
+Regarde la feuille de laurier, c'est magnifique !
+Combien de degrés ? Deux degrés !
+Combien de diplômes ? Deux diplômes !
+Ne me dites pas que vous avez encore un problème de ruches ?
+Ne me dites pas que vous avez encore un problème d'urticaire ?
+Comment as-tu fait pour avoir une telle tache ?
+Comment as-tu fait pour une telle note ?
+Une seule larme, mais c'était suffisant.
+Une seule déchirure, mais c'était suffisant.
+D'ailleurs, la clé a tendance à coller un peu.
+D'ailleurs, la touche a tendance à coller un peu.
+Je ne m'attendais pas à ce que vous soyez aussi intelligent !
+Je ne m'attendais pas à ce que vous soyez aussi élégant !
+Oh, c'est beaucoup trop épicé !
+Oh, c'est beaucoup trop chaud !
+Oh ne stresse pas, c'est juste un courant d'air.
+Oh ne stresse pas, c'est juste un brouillon.
+La coquille est fissurée.
+La carapace est fissurée.
+Le tapis a dû coûter une fortune !
+La moquette a dû coûter une fortune !
+Faites-moi une faveur et nettoyez la litière pour moi, s'il vous plaît.
+Faites-moi une faveur et nettoyez le plateau pour moi, s'il vous plaît.
+Le cadre est en bois.
+La charpente est en bois.
