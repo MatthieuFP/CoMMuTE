@@ -10,6 +10,11 @@ Images can be downloaded [<ins>here</ins>](https://drive.google.com/drive/folder
 
 `tar -xvzf images.tar.gz`
 
+Images of the validation set (only available in French) can be downloaded [<ins>here</ins>](https://drive.google.com/drive/folders/1FrvKN1PyR7zeGLllCLp50TbM0OS8LCSc?usp=sharing). To extract the content, please run the following command 
+line:
+
+`tar -xvzf images_dev.tar.gz`
+
 ## Example
 
 English source sentence to be translated into French:
@@ -49,6 +54,19 @@ If you use this corpus, please cite:
     url = "https://aclanthology.org/2023.acl-long.295",
     doi = "10.18653/v1/2023.acl-long.295",
     pages = "5394--5413"
+}
+```
+
+If you use en-ar, en-zh, en-ru or en-fr_dev, please cite additionally:
+```
+@misc{futeral2024zeroshotmultimodalmachinetranslation,
+      title={Towards Zero-Shot Multimodal Machine Translation}, 
+      author={Matthieu Futeral and Cordelia Schmid and Beno{\^\i}t Sagot and Rachel Bawden},
+      year={2024},
+      eprint={2407.13579},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.13579}, 
 }
 ```
 
